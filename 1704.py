@@ -8,5 +8,4 @@ class Solution:
         for i in range(lenght, len(s)):
             if s[i].lower() in 'aeiou':
                 vowels_b += 1
-     
         return vowels_a == vowels_b 
