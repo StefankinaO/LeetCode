@@ -9,6 +9,6 @@ My solutions of the tasks on LeetCode.
 1646 - Runtime: 40 ms.
        Memory Usage: 14 MB.       
 1394 - Runtime: 204 ms.
-       Memory Usage: 14.6 MB
+       Memory Usage: 14.6 MB.  
 1480 - Runtime: 88 ms.
        Memory Usage: 14.3 MB.
