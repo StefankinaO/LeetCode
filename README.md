@@ -13,4 +13,6 @@ My solutions of the tasks on LeetCode.
 1480 - Runtime: 88 ms. 
        Memory Usage: 14.3 MB.        
 1342 - Runtime: 52 ms. 
-       Memory Usage: 14.2 MB. 
+       Memory Usage: 14.2 MB.  
+1281 - Runtime: 32 ms.
+       Memory Usage: 14.1 MB. 
