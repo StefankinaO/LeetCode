@@ -21,5 +21,6 @@ My solutions of the tasks on LeetCode.
 1486 - Runtime: 28 ms.
        Memory Usage: 14.2 MB.   
 1365 - Runtime: 508 ms.
-       Memory Usage: 14.2 MB.
-  
+       Memory Usage: 14.2 MB.    
+1678 - Runtime: 36 ms.
+       Memory Usage: 14.3 MB.  
