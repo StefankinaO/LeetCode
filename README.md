@@ -25,4 +25,6 @@ My solutions of the tasks on LeetCode.
 1678 - Runtime: 36 ms.
        Memory Usage: 14.3 MB.  
 1464 - Runtime: 948 msy.
-       Memory Usage: 14.4 MB
+       Memory Usage: 14.4 MB.   
+1450 - Runtime: 44 ms.
+       Memory Usage: 14.3 MB
