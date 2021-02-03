@@ -32,9 +32,10 @@ My solutions of the tasks on LeetCode.
        Memory Usage: 14.3 MB.    
 1491 - Runtime: 32 ms.
        Memory Usage: 14.3 MB.   
-136 - Runtime: 5952 ms.
-      Memory Usage: 16.7 MB.       
+136 -  Runtime: 5952 ms.
+       Memory Usage: 16.7 MB.       
 1470 - Runtime: 60 ms.
-       Memory Usage: 14.3 MB. 
-
+       Memory Usage: 14.3 MB.   
+414 -  Runtime: 48 ms.
+       Memory Usage: 15.9 MB
       
