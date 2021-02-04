@@ -39,4 +39,6 @@ My solutions of the tasks on LeetCode.
 414 -  Runtime: 48 ms.
        Memory Usage: 15.9 MB.      
 1266 - Runtime: 52 ms.
-       Memory Usage: 14.1 MB      
+       Memory Usage: 14.1 MB.             
+905 - Runtime: 104 ms.
+      Memory Usage: 15.3 MB
