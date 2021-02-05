@@ -45,5 +45,6 @@ My solutions of the tasks on LeetCode.
 771 - Runtime: 36 ms.
       Memory Usage: 14.1 MB.   
 1528 - Runtime: 52 ms.
-       Memory Usage: 14.1 MB
-
+       Memory Usage: 14.1 MB.   
+1732 - Runtime: 36 ms.
+       Memory Usage: 14.3 MB,
