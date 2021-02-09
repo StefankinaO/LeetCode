@@ -71,4 +71,6 @@ My solutions of the tasks on LeetCode.
 1313 - Runtime: 80 ms.
        Memory Usage: 14.9 MB.    
 1399 - Runtime: 112 ms.
-       Memory Usage: 14.6 MB
+       Memory Usage: 14.6 MB.          
+1299 - Runtime: 3984 ms.
+       Memory Usage: 15.7 MB
