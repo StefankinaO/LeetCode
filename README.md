@@ -75,4 +75,6 @@ My solutions of the tasks on LeetCode.
 1299 - Runtime: 3984 ms.
        Memory Usage: 15.7 MB.      
 1588 - Runtime: 116 ms.
-       Memory Usage: 14 MB
+       Memory Usage: 14 MB.        
+88 - Runtime: 32 ms.
+     Memory Usage: 14.4 MB
