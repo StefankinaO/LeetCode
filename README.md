@@ -81,4 +81,6 @@ My solutions of the tasks on LeetCode.
 989 - Runtime: 308 ms.
       Memory Usage: 14.8 MB.               
 747 - Runtime: 28 ms.
-      Memory Usage: 14.3 MB
+      Memory Usage: 14.3 MB.                
+1385 - Runtime: 104 ms.
+       Memory Usage: 14.1 MB
